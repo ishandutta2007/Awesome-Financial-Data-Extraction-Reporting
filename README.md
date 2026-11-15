@@ -15,10 +15,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
+
+## Sector Overview & Market Dynamics
+
+The global data integration and ELT market is estimated at **$15B–$19B** (growing at an ~11%–13% CAGR toward $33B+ by 2030), with BFSI representing over **20%–25%** of overall spend driven by stringent auditability, compliance, and real-time reconciliation demands. Market structure exhibits a **hybrid concentration**: the underlying data layer is moderately concentrated among hyperscalers and cloud warehouses (Google Cloud, Snowflake, Databricks), while the ingestion/ELT tooling tier remains **moderately fragmented** with specialized managed solutions and open-source alternatives competing on connector breadth and consumption costs rather than creating a single winner-take-all monopoly.
 
 ## SaaS/Hosted Platforms
 
