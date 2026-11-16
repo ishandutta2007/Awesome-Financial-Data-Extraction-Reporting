@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Financial-Data-Extraction-Reporting/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Financial-Data-Extraction-Reporting?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Financial-Data-Extraction-Reporting/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Financial-Data-Extraction-Reporting?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Financial-Data-Extraction-Reporting/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Financial-Data-Extraction-Reporting?style=social&color=white" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Financial-Data-Extraction-Reporting/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Financial-Data-Extraction-Reporting?style=flat-square&color=blue" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -71,9 +71,9 @@ The following hosted platforms provide managed data extraction, automated schema
 
 Open-source technologies empower finance and data teams to build self-hosted, auditable, and sovereign data pipelines without volume-based pricing penalties. 
 
-All repositories below are sorted in **descending order by GitHub star count**, with verified stargazer badges linking directly to each project's stargazers community.
+All repositories below are sorted in **descending order by GitHub Stars_Count**, with verified stargazer badges linking directly to each project's stargazers community.
 
-| Project | Stars | Description | Focus Area |
+| Project | GitHub_Stars | Description | Focus Area |
 |:---|:---:|:---|:---|
 | **[Apache Airflow](https://github.com/apache/airflow)** | [![Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) | 🌪️ The industry standard programmatic workflow orchestration engine. Define DAGs in Python to schedule, automate, and monitor end-to-end financial data pipelines. | Workflow Orchestration |
 | **[DuckDB](https://github.com/duckdb/duckdb)** | [![Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) | 🦆 An in-process SQL OLAP database management system. Exceptional for fast, serverless local analysis of large financial Parquet, CSV, and ledger datasets. | Analytical Database |
@@ -96,7 +96,7 @@ Contributions are warmly welcomed! Help make this the most comprehensive and acc
 
 1. 🍴 **Fork the repository** to your personal GitHub account.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-tool`).
-3. 📝 **Add or update entries** in `README.md`, adhering to the format (ensure exact starting price, verified free limits, and live star count badges).
+3. 📝 **Add or update entries** in `README.md`, adhering to the format (ensure exact starting price, verified free limits, and live Stars_Count badges).
 4. 🧪 **Check link validity** and ensure factual descriptions.
 5. 🚀 **Submit a Pull Request** describing your additions or adjustments.
 
